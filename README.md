@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./primerock-logo.png" alt="IMG-20260609-WA0001.jpg" width="200">
+</p>
 PRIMEROCK TECHNOLOGIES
 
 Engineering Reliable Solutions for Everyday Life.
